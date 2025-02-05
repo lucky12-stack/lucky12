@@ -6,7 +6,7 @@ This project is a full-stack web application built using the MERN stack (MongoDB
 
 ## Backend
 
-### Swagger Docs by Prathmesh
+### Swagger Docs by Prathamesh
 
 - [Swagger Docs link](https://roxciler-systems-assement.onrender.com/api-docs/)
 
