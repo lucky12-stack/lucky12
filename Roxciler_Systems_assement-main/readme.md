@@ -1,12 +1,12 @@
-# MERN Stack Coding Challenge Documentation
+# MERN Stack Coding Challenge Documentation (Roxiler Systems)
 
 ## Overview
 
-This project is a full-stack application developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It includes both backend and frontend components to handle transactions data from a third-party API, provide various functionalities such as listing transactions, generating statistics, bar chart, pie chart, and displaying them in a user-friendly web interface.
+This project is a full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It integrates a third-party API to handle transactions data and offers multiple functionalities to visualize and manage this data in an intuitive web interface.
 
 ## Backend
 
-### Swagger Docs
+### Swagger Docs by Prathmesh
 
 - [Swagger Docs link](https://roxciler-systems-assement.onrender.com/api-docs/)
 
